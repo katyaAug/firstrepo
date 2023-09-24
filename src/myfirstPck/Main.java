@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Kyiv");
         float celsius, kelvin, fahrenheit;
-        celsius = 25.0f;
+        celsius = 10.0f;
         fahrenheit = (9.0f * celsius + 5.0f * 32.0f) / 5.0f;
         kelvin = celsius + 273.16f;
         System.out.println(celsius + " degrees Celsius: "
