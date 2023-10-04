@@ -13,7 +13,7 @@ public class Main {
         float leg1, leg2, areaTriangle;
         leg1 = 5.0f;
         leg2 = 3.0f;
-        areaTriangle = (leg1*leg2)/2.0f;
+        areaTriangle = (leg1 * leg2) / 2.0f;
         System.out.println("Area of a Triangle: " + areaTriangle + " square meters");
     }
 }
